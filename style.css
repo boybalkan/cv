@@ -1,6 +1,6 @@
 body{
   background-color:#EAF6F6;
-
+  color:#66BFBF;
 }
 hr{
   border-style: none;
@@ -10,10 +10,10 @@ hr{
   width: 10%;
 
 }
-img{
-  width: 150px;
-}
 
-h1, h2, h3{
+h1{
   color: #66BFBF;
+}
+h3{
+  color: green;
 }
