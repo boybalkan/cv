@@ -11,9 +11,22 @@ hr{
 
 }
 img{
+  width:150px;
+}
+img:hover {
+  background-color: gold;
   width: 150px;
+  border-radius: 100%;
 }
 
 h1, h2, h3{
   color: #66BFBF;
+}
+
+.logo{
+  border-radius: 25px;
+}
+
+#header{
+  font-size: 150%;
 }
